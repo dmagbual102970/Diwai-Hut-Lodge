@@ -2,7 +2,7 @@
 
 **Demo only. Sample content. No backend.** Built to show what the lodge's website could look like.
 
-- **Live:** https://dmmagbual.github.io/Diwai-Hut-Lodge/
+- **Live:** https://dmagbual102970.github.io/Diwai-Hut-Lodge/
 - **Theme:** forest green · Playfair Display + Inter
 - **Hero:** photograph of the lodge
 - **Contact:** +675 532 3840 · WhatsApp · Goroka, Eastern Highlands Province
